@@ -1,0 +1,5 @@
+coders4africa_quickcollect:
+    resource: "@Coders4africaQuickcollectBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
